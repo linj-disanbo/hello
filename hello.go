@@ -6,5 +6,5 @@ import (
 
 // Hello impl
 func Hello(str string) {
-	fmt.Printf("Hello World!")
+	fmt.Printf("Hello World! v2")
 }
