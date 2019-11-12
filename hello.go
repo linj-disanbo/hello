@@ -5,6 +5,6 @@ import (
 )
 
 // Hello impl
-func Hello(str string) {
-	fmt.Printf("Hello World! v2")
+func Hello(s1, s2 string) {
+	fmt.Printf("Hello World! %s %s", s1, s2)
 }
